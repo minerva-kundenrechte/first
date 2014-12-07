@@ -1,4 +1,4 @@
 first
 =====
 
-(PKV Tarifwechsel)[https://www.minerva-kundenrechte.de]
+[PKV Tarifwechsel](https://www.minerva-kundenrechte.de)
